@@ -1,0 +1,53 @@
+* Sessions
+
+** 2019/04/20
+
+*** networking
+- CIDR and Subnetting, http://www.itgeared.com/articles/1347-cidr-and-subnetting-tutorial/
+- How does IPv4 Subnetting Work?, https://serverfault.com/questions/49765/how-does-ipv4-subnetting-work/49836
+- What Startups Should Know about Amazon VPC — Part 1, https://medium.com/aws-activate-startup-blog/what-startups-should-know-about-amazon-vpc-part-1-bebe94b7f228
+- Footgun Prevention with AWS VPC Subnetting and Add, http://hackerfall.com/story/footgun-prevention-with-aws-vpc-subnetting-and-add
+- Practical VPC Design, https://medium.com/aws-activate-startup-blog/practical-vpc-design-8412e1a18dcc
+- AWS Custom network with Terraform, https://medium.com/@phil.kwesiga/aws-custom-network-with-terraform-18440974a791
+- Kubernetes Networking: Behind the scenes, https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb
+- Socket Programming in Python (Guide), https://realpython.com/python-sockets/
+- Secure socket programming in Python, https://medium.com/@md.julfikar.mahmud/secure-socket-programming-in-python-d37b93233c69
+
+*** Load Balancing
+- Multi-tier load-balancing with Linux, https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer
+- Using AWS Application Load Balancer and Network Load Balancer with EC2 Container Service, https://medium.com/containers-on-aws/using-aws-application-load-balancer-and-network-load-balancer-with-ec2-container-service-d0cb0b1d5ae5
+- Introduction to modern network load balancing and proxying, https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
+
+*** Cache
+- Cache Rules Everything Around Me, https://medium.com/@cmcorrales3/cache-rules-everything-around-me-9ae682cba778
+- Web Caching Explained by Buying Milk at the Supermarket, https://dev.to/kbk0125/web-caching-explained-by-buying-milk-at-the-supermarket-9k4
+- An in-depth introduction to HTTP Caching: exploring the landscape, https://medium.freecodecamp.org/http-caching-in-depth-part-1-a853c6af99db
+- Python + Memcached: Efficient Caching in Distributed Applications, https://realpython.com/python-memcache-efficient-caching/
+- Caching External API Requests, https://realpython.com/caching-external-api-requests/
+- Consistent Hashing Simplified, https://towardsdatascience.com/consistent-hashing-simplified-7fe4e512324
+- How to write a memcached server in less than 50 lines of code, https://medium.com/@ronreiter/how-to-write-a-memcached-server-in-less-than-50-lines-of-code-2fb3c91ce7cf
+- Try Memcache Source Code Hacking in series section
+
+*** Algorithms and Data Structures
+- Trapping Rain Water, https://www.geeksforgeeks.org/trapping-rain-water/
+- Build a Regex Engine in Less than 40 Lines of Code, https://nickdrane.com/build-your-own-regex/?fbclid=IwAR2Q5ToZeQNgOz-aKR_pMwfiUFUVoGAsHeaGV8QWj4uYVhqNaMBpIxppWGQ
+- Recursion Demystified, https://medium.freecodecamp.org/recursion-demystified-99a2105cb871
+
+*** REST API
+- How not to blow your REST interview, https://medium.com/@emailbivas/the-principles-of-rest-6b00deac91b3
+- REST API Development tips and best practices — Part 1, https://medium.com/epignosis-engineering/rest-api-development-tips-and-best-practices-part-1-9cbd4b924285
+- REST Security Basics, https://medium.com/@yellow/rest-security-basics-f59013850c4e
+- Tornado Framework, https://opensource.com/article/18/6/tornado-framework
+- How to build a REST API in Python with Tornado (part 1), https://medium.com/octopus-labs-london/how-to-build-a-rest-api-in-python-with-tornado-fc717c33824a
+- Apache Thrift, https://thrift.apache.org/tutorial/
+
+*** series
+- Design System Interview, https://www.educative.io/collection/5668639101419520/5649050225344512
+- Understanding The React Source Code — Initial Rendering (Simple Component) I, https://medium.com/source-code/understanding-the-react-source-code-initial-rendering-simple-component-i-80263fe46cf1
+- Understanding The memcached Source Code — Slab I, https://medium.com/source-code/understanding-the-memcached-source-code-slab-i-9199de613762
+- Let's code a TCP/IP stack, 1: Ethernet & ARP, http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
+- Home-grown bytecode interpreters, https://badootech.badoo.com/home-grown-bytecode-interpreters-51e12d59b25c
+- Hack The Virtual Memory: C strings & /proc, https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/?fbclid=IwAR3XwjjLf-hseoYAeePrI2VNa4sc0pjoYl5Egl_d3eZftJNs0RRMmgWeFbQ
+- Linear Programming and Healthy Diets — Part 1, https://jeremykun.com/2014/06/02/linear-programming-and-the-most-affordable-healthy-diet-part-1/
+- The Architecture of Open Source Applications, http://aosabook.org/en/index.html
+- https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html
