@@ -1,5 +1,27 @@
 * Sessions
 
+** 2019/05/22
+- https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d
+- https://levelup.gitconnected.com/coroutines-and-tasks-in-julia-and-python-c82f7ec52a9e
+
+- https://medium.com/@stephen.leigh/writing-a-simple-transpiler-in-javascript-3c34ccb99e74
+- https://levelup.gitconnected.com/how-i-wrote-javascript-framework-59b40dca3366
+- https://itnext.io/how-to-build-a-realtime-multiplayer-game-in-javascript-using-pubnub-5f410fd62f33
+
+- https://medium.com/@gvnix/sticky-sessions-with-spring-session-redis-bdc6f7438cc3
+
+- https://levelup.gitconnected.com/from-whence-we-come-security-edition-f41137be9030
+- https://medium.com/@hirad.babayan/genetic-algorithm-vs-backtracking-n-queen-problem-cdf38e15d73f
+- https://medium.com/@kstenerud/time-and-timezones-getting-it-right-b91fb31ccca6
+- https://hellsoft.se/https-hellsoft-se-understanding-cpu-and-io-bound-for-asynchronous-operations-6511c70a5685
+
+- https://itnext.io/aws-app-mesh-service-mesh-for-microservices-running-on-aws-3f667f005d6a
+- https://itnext.io/aws-app-mesh-a-big-win-d3e55f5f0ca8
+
+- https://blog.smartive.ch/what-state-machines-are-and-why-we-use-them-5ea55183be09
+- https://levelup.gitconnected.com/type-level-finite-state-machines-6714f849255
+
+
 ** 2019/04/20
 
 *** networking
