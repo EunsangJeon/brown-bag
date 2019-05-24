@@ -1,5 +1,8 @@
 * Sessions
 
+** Eunsang
+- https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9
+
 ** 2019/05/22
 - https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d
 - https://levelup.gitconnected.com/coroutines-and-tasks-in-julia-and-python-c82f7ec52a9e
