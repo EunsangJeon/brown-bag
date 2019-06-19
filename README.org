@@ -2,6 +2,7 @@
 
 ** Eunsang
 - https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9
+- http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html
 
 ** 2019/05/22
 - https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d
