@@ -4,6 +4,7 @@
 - https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9
 - http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html
 - https://nvie.com/posts/a-successful-git-branching-model/
+- https://medium.com/better-programming/advanced-cli-commands-you-should-know-as-a-developer-7bc48c752a5e
 
 
 ** 2019/05/22
