@@ -1,13 +1,13 @@
 * Sessions
 
-** Eunsang
+** Eunsang's Pick
 - https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9
 - http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html
 - https://nvie.com/posts/a-successful-git-branching-model/
 - https://medium.com/better-programming/advanced-cli-commands-you-should-know-as-a-developer-7bc48c752a5e
 
 
-** 2019/05/22
+** Heewon's Pick 2nd
 - https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d
 - https://levelup.gitconnected.com/coroutines-and-tasks-in-julia-and-python-c82f7ec52a9e
 
@@ -29,7 +29,7 @@
 - https://levelup.gitconnected.com/type-level-finite-state-machines-6714f849255
 
 
-** 2019/04/20
+** Heewon's Pick 1st
 
 *** networking
 - CIDR and Subnetting, http://www.itgeared.com/articles/1347-cidr-and-subnetting-tutorial/
