@@ -1,0 +1,18 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: "httpd-deployment"
+  namespace: "default"
+spec:
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: "httpd"
+    spec:
+      containers:
+      - image: 414807103329.dkr.ecr.us-east-1.amazonaws.com/eunsang-test-httpd:latest
+        imagePullPolicy: Always
+        name: "httpd"
+        ports:
+        - containerPort: 80
